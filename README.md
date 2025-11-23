@@ -20,7 +20,7 @@ I'm ***Liam Karlsson***, a student based in Halmstad. Welcome to my GitHub profi
 
 ___
 
-# Portfolio: *[portolioo.vercel.app](https://portolioo.vercel.app)*
+# Portfolio: *[liamkarlsson.com](https://liamkarlsson.com/)*
 
 ___
 
